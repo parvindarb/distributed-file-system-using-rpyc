@@ -4,10 +4,10 @@ This is an implementation of a distributed file system architecture using 'rpyc'
 
 Ypu can find the demo on the below YouTube link:
 
-[![Distributed File System using 'rpyc' module with Threading and logging](https://img.youtube.com/vi/3-xJMzLML3E/0.jpg)](https://youtu.be/3-xJMzLML3E)
+[![Distributed File System using 'rpyc' module with Threading and logging](https://youtu.be/3-xJMzLML3E)](https://youtu.be/3-xJMzLML3E)
 
 
-===============================================================================================================
+=============================================================
 
 
 DFS is the Main project folder:
@@ -31,4 +31,4 @@ Client folder contains:
 	ftpclient.py	(This is the hard coded ftp client file - can be used to demo the FTP (requires DNode1 FTPserver to be running)
 	client1.txt 	(This is a test file used for FTP)
   
- ===============================================================================================================================
+ =============================================================

@@ -3,9 +3,9 @@
 This is an implementation of a distributed file system architecture using 'rpyc' module with Threading and logging.
 
 
+===============================================================================================================
 
 
-===============================================================================================================================
 DFS is the Main project folder:
 
 Server folder contains: 

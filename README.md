@@ -2,7 +2,7 @@
 
 This is an implementation of a distributed file system architecture using 'rpyc' module with Threading and logging.
 
-Ypu can find the demo on the below YouTube link:
+You can find the demo on the below YouTube link:
 
 [![Distributed File System using 'rpyc' module with Threading and logging](https://img.youtube.com/vi/3-xJMzLML3E/0.jpg)](https://youtu.be/3-xJMzLML3E)
 
